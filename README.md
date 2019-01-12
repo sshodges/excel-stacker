@@ -13,7 +13,7 @@ Available options when using program:
 
 ## Converting Excel Stacker to .exe
 
-  Converting .py application to .exe was done using Python library Pyinstaller. The below command run in the terminal to create the .exe application
+  Converting .py application to .exe was done using Python library Pyinstaller, example in `dist` folder. The below command run in the terminal to create the .exe application
   
   ```
   pyinstaller excel_stacker.py --onefile --windowed --icon=img/icon.ico
